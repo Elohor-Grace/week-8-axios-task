@@ -1,0 +1,15 @@
+
+
+
+
+img{
+  width: 250px;
+  height: 300px;
+  justify-content: left;
+  border-radius: 50%;
+}
+.list{
+  background-color: cornflowerblue;
+  color: brown;
+  font-style: oblique;
+}
